@@ -1,0 +1,12 @@
+{
+  "name": "tp2bis",
+  "version": "1.0.0",
+  "description": "DAI - Módulos en Node",
+  "license": "ISC",
+  "author": "Uriel Suti",
+  "type": "commonjs",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  }
+}
