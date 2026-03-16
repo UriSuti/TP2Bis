@@ -4,9 +4,15 @@
   "description": "DAI - Módulos en Node",
   "license": "ISC",
   "author": "Uriel Suti",
-  "type": "commonjs",
+  "type": "module",
   "main": "index.js",
   "scripts": {
-    "test": "echo \"Error: no test specified\" && exit 1"
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "ejercicio1": "node ej01.js",
+    "ejercicio2": "node ej02.js",
+    "ejercicio3": "node ej03.js"
+  },
+  "dependencies": {
+    "dayjs": "^1.11.20"
   }
 }
