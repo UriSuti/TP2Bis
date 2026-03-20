@@ -3,14 +3,18 @@
   "version": "1.0.0",
   "description": "DAI - Módulos en Node",
   "license": "ISC",
-  "author": "Uriel Suti",
+  "author": "Alan Vitas",
   "type": "module",
   "main": "index.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1",
     "ejercicio1": "node ej01.js",
     "ejercicio2": "node ej02.js",
-    "ejercicio3": "node ej03.js"
+    "ejercicio3": "node ej03.js",
+    "ejercicio7": "node ej07.js",
+    "ejercicio8": "node ej08.js"
+
+
   },
   "dependencies": {
     "dayjs": "^1.11.20"
