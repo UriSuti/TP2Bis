@@ -10,7 +10,10 @@
     "test": "echo \"Error: no test specified\" && exit 1",
     "ejercicio1": "node ej01.js",
     "ejercicio2": "node ej02.js",
-    "ejercicio3": "node ej03.js"
+    "ejercicio3": "node ej03.js",
+    "ejercicio4": "node ej04.js",
+    "ejercicio5": "node ej05.js",
+    "ejercicio6": "node ej06.js"
   },
   "dependencies": {
     "dayjs": "^1.11.20"
